@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Proyecto1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:/Users/joseb/OneDrive/Documentos/Cursos/Python CoderHouse/Desafíos/ProyectoDjango/Proyectos/Familiares/plantillas/'],
+        'DIRS': ['C:/Users/joseb/OneDrive/Documentos/Cursos/Python CoderHouse/Desafíos/ProyectoDjango/Proyectos/Familiares/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
